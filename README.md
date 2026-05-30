@@ -84,7 +84,7 @@ python main.py
 
 ## Author
 
-Created by Yashika Reddy
+Created by Yashika Aduma
 
 GitHub Repository:  
 :contentReference[oaicite:0]{index=0}
